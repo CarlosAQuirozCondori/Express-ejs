@@ -1,0 +1,1 @@
+console.log('Archivo index de la carpeta estatic, Hello world')
